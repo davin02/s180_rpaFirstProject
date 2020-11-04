@@ -1,0 +1,10 @@
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\bin\Debug\Raspberry Arduino LED.exe.config
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\bin\Debug\Raspberry Arduino LED.exe
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\bin\Debug\Raspberry Arduino LED.pdb
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry Arduino LED.csprojAssemblyReference.cache
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry_Arduino_LED.Properties.Resources.resources
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry Arduino LED.csproj.GenerateResource.cache
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry Arduino LED.csproj.CoreCompileInputs.cache
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry Arduino LED.exe
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry Arduino LED.pdb
+C:\RPA\project\FirstProject\Raspberry Arduino LED\Raspberry Arduino LED\obj\Debug\Raspberry_Arduino_LED.MainForm.resources
